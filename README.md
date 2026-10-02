@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0008,100:ff2266&height=160&section=header&text=Urwa%20Rafique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%40%20FAST%20NUCES%20%C2%B7%20Programmer%20%C2%B7%20Designer%20%C2%B7%20Problem%20Solver&descAlignY=60&descColor=ffe0e8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,100:00BFFF&height=160&section=header&text=Urwa%20Rafique&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%40%20FAST%20NUCES%20%C2%B7%20Programmer%20%C2%B7%20Designer%20%C2%B7%20Problem%20Solver&descAlignY=60&descColor=D9F7FF" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=FF2266\&center=true\&vCenter=true\&width=600\&lines=Computer+Science+Undergraduate;C%2B%2B+%26+C+Developer;Web+Development+Enthusiast;Building+Projects+and+Learning;Programmer+%7C+Designer+%7C+Problem+Solver;CS+%40+FAST+NUCES+Karachi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=600\&lines=Computer+Science+Undergraduate;C%2B%2B+%26+C+Developer;Web+Development+Enthusiast;Building+Projects+and+Learning;Programmer+%7C+Designer+%7C+Problem+Solver;CS+%40+FAST+NUCES+Karachi)](https://git.io/typing-svg)
 
 </div>
 
@@ -155,7 +155,7 @@ AI / ML & Advanced Software Projects
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=0d0008&color=ff2266&line=880022&point=ff2266" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=050B14&color=00BFFF&line=006B8F&point=00E5FF" />
 
 </div>
 
@@ -163,7 +163,7 @@ AI / ML & Advanced Software Projects
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2266,100:0d0008&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:050B14&height=100&section=footer" />
 
 *"Learn. Build. Improve. Repeat."*
 
